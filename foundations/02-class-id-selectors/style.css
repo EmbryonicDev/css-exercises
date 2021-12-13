@@ -1,4 +1,4 @@
-p.pink {
+.odd {
     background-color: #ffc0cb;
     font-family: Verdana, sans-serif;
 }
@@ -7,7 +7,13 @@ p.pink {
     font-size: 24px;
 }
 
-#blue {
+#two {
     color: #0000ff;
     font-size: 36px;
+}
+
+#four {
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: bold;
 }
