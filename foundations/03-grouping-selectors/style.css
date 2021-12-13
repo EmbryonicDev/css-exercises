@@ -1,4 +1,10 @@
 .click-one, .click-two {
     font-style: 28px;
     font-family: Hevetica, 'Times New Roman', serif;
+    align-items: center;
+}
+
+.click-one {
+    background-color: black;
+    color: white;
 }
