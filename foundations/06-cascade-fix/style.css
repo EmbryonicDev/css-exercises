@@ -1,3 +1,7 @@
+.para {
+  font-size: 22px;
+}
+
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
@@ -7,9 +11,6 @@
   font-size: 12px;
 }
 
-.para {
-  font-size: 22px;
-}
 
 .confirm {
   background: green;
