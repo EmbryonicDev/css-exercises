@@ -14,13 +14,15 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  /* ↓ my added code ↓ */
+
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   /* ↓ my added code ↓ */
-
+  display: flex;
 }
 
 a {
