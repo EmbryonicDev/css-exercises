@@ -2,18 +2,22 @@
   font-family: monospace;
   background: papayawhip;
   /* ↓ my added code ↓ */
+  border: 10px solid white;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .logo {
+  font-family: serif;
   font-size: 48px;
-  font-weight: 900;
+  font-weight: bolder;
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 10px;
   /* ↓ my added code ↓ */
+  display: flex;
 }
 
 ul {
@@ -21,6 +25,7 @@ ul {
   list-style-type: none;
   /* ↓ my added code ↓ */
   display: flex;
+  gap: 20px;
 }
 
 a {
@@ -32,3 +37,7 @@ a {
 }
 
 /* ↓ my added code ↓ */
+.left-links {
+  display: flex;
+
+}
